@@ -1,0 +1,17 @@
+.doduchuy{
+    padding-left: 650px;
+}
+.huy:hover{
+    
+        transform: scale(1.5,1.5);
+        -webkit-transform: scale(1.5,1.5);
+        -moz-transform: scale(1.5,1.5);
+        -o-transform: scale(1.5,1.5);
+        -ms-transform: scale(1.5,1.5);
+        
+}
+.cc{
+    padding-left: 300px;
+    background: black;
+    color: white;
+}
